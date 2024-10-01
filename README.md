@@ -19,8 +19,9 @@ A simple Android app that allows users to search for a stock symbol and view its
 - **Financial Modeling Prep API**: Fetches real-time stock data.
 
 ## Screenshots
+<img src="assets/1.png" alt="App Screenshot" width="243" height="500" /> <img src="assets/2.png" alt="App Screenshot" width="243" height="500" />
+<img src="assets/3.png" alt="App Screenshot" width="243" height="500" /> <img src="assets/4.png" alt="App Screenshot" width="243" height="500" />
 
-![App Screenshot](assets/1.png) ![App Screenshot](assets/1.png)![App Screenshot](assets/1.png)![App Screenshot](assets/1.png)
 
 ## Installation
 
